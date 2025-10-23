@@ -124,12 +124,6 @@ I specialize in creating systems that don't just function—they inform, optimiz
 - **Data Visualization:** Created interactive visualizations with D3.js and dashboards with Tableau for data-driven insights
 - **Analytics:** Business analytics background enabling me to design data systems that support strategic decision-making
 
-### AI/ML Engineering
-- **Model Development:** Experience with scikit-learn for building predictive models and understanding ML algorithms
-- **Production Deployment:** Knowledge of serving ML models via REST APIs and integrating predictions into backend applications
-- **Feature Engineering:** Skilled at transforming raw data into meaningful features for model training
-- **MLOps Mindset:** Understanding of model versioning, monitoring, and the full ML lifecycle in production environments
-
 ---
 
 ## 🌱 Currently Learning
@@ -151,7 +145,6 @@ I specialize in creating systems that don't just function—they inform, optimiz
    * MLOps Practices: Exploring model versioning, experiment tracking with MLflow, and model monitoring in production
    * Deep Learning Foundations: Building understanding of neural networks, CNNs, and RNNs using TensorFlow and PyTorch
    * Feature Stores: Learning about feature engineering best practices and feature store implementations
-
 * **⚙️ Backend System Optimization:**
    * Microservices Patterns: Studying service decomposition, API gateways, and inter-service communication strategies
    * Database Performance: Advanced query optimization, indexing strategies, and database scaling techniques
@@ -160,7 +153,7 @@ I specialize in creating systems that don't just function—they inform, optimiz
 
 ### 🔍 Emerging Technologies I'm Exploring
 
-* **AutoML & Model Optimization:** Exploring automated machine learning tools and hyperparameter tuning techniques
+* **Machine Learning Integration:** Exploring how to integrate ML models into backend applications, model deployment via APIs, and MLOps practices
 * **Graph Databases:** Learning Neo4j for relationship-focused data modeling and complex queries
 * **API Security:** Deepening knowledge in OAuth 2.0, JWT authentication, and API security best practices
 * **Real-time Analytics:** Building systems that process and analyze streaming data with low latency
