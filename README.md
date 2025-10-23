@@ -200,6 +200,6 @@ I'm always interested in connecting with fellow engineers, data professionals, a
 
 ⭐️ Thanks for visiting! Explore my repositories to see how I combine backend engineering, data processing, and machine learning to build intelligent, scalable solutions.
 
-![Profile Views](https://komarev.com/ghpvc/?username=syprian&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=150&color=blue&style=flat-square)
 
 </div>
