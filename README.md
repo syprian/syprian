@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### Backend Software Engineer | Business Analytics Graduate Student | Data-Centric Problem Solver
+### Backend Software Engineer | Data Engineer | AI/ML Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/syprian-o)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:soduor@wisc.edu)
@@ -14,79 +14,156 @@
 
 ## 🚀 About Me
 
-Welcome to my GitHub profile! I'm passionate about building **scalable, reliable backend systems** and using **data analytics** to create smarter, more efficient software solutions. With a **B.S. in Computer Science** and current graduate studies in **Business Analytics**, I bridge technical engineering and analytical reasoning to design systems that are not only high-performing but also insight-driven.
+I'm a **Backend Software Engineer** and **Business Analytics graduate student** at UW-Madison, passionate about building **scalable backend systems**, designing **data pipelines**, and integrating **machine learning** into production applications. With a strong foundation in **Computer Science** and ongoing studies in **Business Analytics**, I bring a unique blend of software engineering rigor and data-driven insight to every project.
+
+I specialize in creating systems that don't just function—they inform, optimize, and scale. Whether it's designing RESTful APIs, building ETL pipelines, or deploying ML models, I focus on engineering solutions that solve real-world problems with measurable impact.
 
 ### What Drives Me
-- 🏗️ **Building for Performance:** Crafting backend systems that are reliable, efficient, and scalable
-- 🎯 **Engineering with Purpose:** Leveraging software to address real-world challenges—like my **Wisconsin Idea Fellowship project**, which uses technology to improve literacy outcomes in rural Kenya
-- 📊 **Data-Informed Development:** Applying analytics and predictive modeling to enhance system performance and inform better engineering decisions
-- 🌱 **Continuous Growth:** Always exploring new technologies, patterns, and best practices
+- 🏗️ **Backend Engineering:** Building robust, scalable APIs and backend architectures that support high-traffic applications
+- 📊 **Data Engineering:** Designing efficient data pipelines and ETL processes that transform raw data into actionable insights
+- 🤖 **AI/ML Integration:** Deploying machine learning models in production and building intelligent backend systems
+- 🎯 **Impact-Driven Development:** Creating technology solutions that address real challenges—like my **Wisconsin Idea Fellowship** project improving literacy in rural Kenya
 
 ---
 
-## ⚙️ What I'm Focused On
+## 💼 Core Competencies
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🧱 Backend Development & Systems Design
-Building secure, modular, and efficient backend architectures. I specialize in developing APIs, designing relational databases, and optimizing performance through clean, maintainable code in **Python, Java, and JavaScript**.
-
-### 🧠 Software Engineering & Architecture
-Applying software engineering principles such as **object-oriented design, modularization, and design patterns**. I've worked in collaborative, Agile-style projects simulating real development lifecycles—from requirements gathering to testing and deployment.
+### Backend Engineering
+- RESTful API Design & Development
+- Microservices Architecture
+- Database Design & Optimization
+- System Performance Tuning
+- Authentication & Security
+- Event-Driven Architecture
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🗄️ Data Structures, Algorithms & Performance
-Skilled in **data abstraction, recursion, graphs, and complexity analysis**, I design efficient backend logic using balanced trees, heaps, hash tables, and dynamic programming approaches to support performance at scale.
+### Data Engineering
+- ETL Pipeline Development
+- Data Warehousing
+- Stream Processing
+- Database Optimization
+- Data Quality & Governance
+- Big Data Technologies
 
-### 📱 Application & Interface Integration
-Experienced in building **mobile and web applications** that connect intuitive frontends with powerful backend APIs. I work with **event-driven architectures** and frameworks such as **React Native** to create cohesive user experiences.
+</td>
+<td width="33%" valign="top">
+
+### AI/ML Engineering
+- Model Deployment & Serving
+- MLOps & Model Monitoring
+- Feature Engineering
+- Predictive Analytics
+- Real-time Inference Systems
+- ML Pipeline Automation
 
 </td>
 </tr>
 </table>
 
-### 📊 Data Analytics & Insight Generation
-Using analytics to monitor backend performance, detect bottlenecks, and support data-informed decisions. My business analytics background strengthens my ability to design systems that collect, transform, and visualize meaningful data.
-
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Stack
 
-### Languages
+### Core Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### Backend & Systems
+### Backend & APIs
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Databases
+### Databases & Data Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Data & Visualization Tools
+### Data Engineering & ML Tools
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+
+### Analytics & Visualization
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
 
-### Development & Collaboration
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📚 What I Bring to the Table
+
+### Backend Software Engineering
+- **API Development:** Experienced in designing and implementing RESTful APIs with Flask and Node.js, handling authentication, rate limiting, and error handling
+- **Database Architecture:** Proficient in designing normalized database schemas, writing optimized SQL queries, and implementing indexing strategies for performance
+- **System Design:** Understanding of design patterns, SOLID principles, and building modular, maintainable backend systems
+- **Algorithms & Data Structures:** Strong foundation in computational complexity, trees, graphs, hash tables, and dynamic programming
+
+### Data Engineering
+- **ETL Pipelines:** Experience building data extraction, transformation, and loading workflows to process structured and unstructured data
+- **Data Processing:** Skilled in using pandas, NumPy for data manipulation, cleaning, and feature engineering at scale
+- **Data Visualization:** Created interactive visualizations with D3.js and dashboards with Tableau for data-driven insights
+- **Analytics:** Business analytics background enabling me to design data systems that support strategic decision-making
+
+### AI/ML Engineering
+- **Model Development:** Experience with scikit-learn for building predictive models and understanding ML algorithms
+- **Production Deployment:** Knowledge of serving ML models via REST APIs and integrating predictions into backend applications
+- **Feature Engineering:** Skilled at transforming raw data into meaningful features for model training
+- **MLOps Mindset:** Understanding of model versioning, monitoring, and the full ML lifecycle in production environments
+
+---
+
+## 🌱 Currently Learning
+
+* **☁️ Cloud-Native Backend & Data Engineering:**
+   * AWS Services: Exploring EC2, S3, RDS, Lambda, and API Gateway for scalable backend deployment
+   * Containerization & Orchestration: Learning Docker for containerizing applications and Kubernetes for orchestration
+   * Serverless Architecture: Studying serverless computing patterns for event-driven data processing and API development
+   * CI/CD Pipelines: Implementing automated testing and deployment workflows using GitHub Actions and AWS CodePipeline
+
+* **📊 Advanced Data Engineering:**
+   * Big Data Technologies: Exploring Apache Spark for distributed data processing and handling large-scale datasets
+   * Data Pipeline Frameworks: Learning Apache Airflow for orchestrating complex ETL workflows and data pipeline automation
+   * Stream Processing: Studying Apache Kafka for real-time data streaming and event-driven data architectures
+   * Data Warehousing: Understanding data warehouse design patterns, star schemas, and dimensional modeling
+
+* **🤖 ML Engineering & MLOps:**
+   * Model Deployment: Learning to deploy ML models using Flask APIs, Docker containers, and cloud services
+   * MLOps Practices: Exploring model versioning, experiment tracking with MLflow, and model monitoring in production
+   * Deep Learning Foundations: Building understanding of neural networks, CNNs, and RNNs using TensorFlow and PyTorch
+   * Feature Stores: Learning about feature engineering best practices and feature store implementations
+
+* **⚙️ Backend System Optimization:**
+   * Microservices Patterns: Studying service decomposition, API gateways, and inter-service communication strategies
+   * Database Performance: Advanced query optimization, indexing strategies, and database scaling techniques
+   * Caching Strategies: Implementing Redis for caching and improving API response times
+   * Message Queues: Learning RabbitMQ and Kafka for asynchronous processing and event-driven architectures
+
+### 🔍 Emerging Technologies I'm Exploring
+
+* **AutoML & Model Optimization:** Exploring automated machine learning tools and hyperparameter tuning techniques
+* **Graph Databases:** Learning Neo4j for relationship-focused data modeling and complex queries
+* **API Security:** Deepening knowledge in OAuth 2.0, JWT authentication, and API security best practices
+* **Real-time Analytics:** Building systems that process and analyze streaming data with low latency
 
 ---
 
@@ -99,51 +176,37 @@ Using analytics to monitor backend performance, detect bottlenecks, and support 
 
 ---
 
-## 🌱 Currently Exploring
+## 🎯 Career Focus
 
-```python
-current_focus = {
-    "backend_optimization": [
-        "Microservices architecture",
-        "System modularity and scalability",
-        "Performance optimization in distributed systems"
-    ],
-    "automation": [
-        "Process automation tools",
-        "Backend workflow optimization",
-        "Data pipeline automation"
-    ],
-    "machine_learning": [
-        "Integrating ML models into backend systems",
-        "Predictive analytics for decision support",
-        "Applied machine learning techniques"
-    ],
-    "cloud_deployment": [
-        "Cloud-native backend services",
-        "Scalable cloud infrastructure",
-        "Modern deployment strategies"
-    ]
-}
-```
+I'm actively seeking opportunities in:
+- 🔧 **Backend Software Engineering** (with analytics/data components)
+- 📊 **Data Engineering** (building scalable data pipelines and infrastructure)
+- 🤖 **AI/ML Engineering** (deploying models and building intelligent systems)
+
+I'm particularly interested in roles where I can leverage my unique combination of:
+- Strong software engineering fundamentals (algorithms, system design, APIs)
+- Data engineering capabilities (ETL, pipelines, data warehousing)
+- Machine learning knowledge (model deployment, MLOps, predictive analytics)
+- Business analytics mindset (data-driven decision making, KPI tracking)
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with fellow developers, engineers, and data enthusiasts. Whether you have a project idea, want to discuss technology, or just want to network, feel free to reach out!
+I'm always interested in connecting with fellow engineers, data professionals, and ML practitioners. Whether you're building scalable systems, processing massive datasets, or deploying ML models, let's chat!
 
-- 💡 Open to collaborating on backend projects and data analytics initiatives
-- 🎓 Happy to discuss software architecture, database design, algorithms, or analytics
+- 💡 Open to collaborating on backend systems, data pipelines, and ML infrastructure projects
+- 🎓 Happy to discuss system architecture, data engineering patterns, ML deployment strategies
 - 📧 Best way to reach me: soduor@wisc.edu
-- 📍 Based in Madison, WI
+- 📍 Based in Madison, WI | Open to relocation and remote opportunities
 
 ---
 
 <div align="center">
 
-### 💭 _"Building systems that scale, analyzing data that matters, creating solutions that last."_
+### 💭 _"Building systems that scale, engineering pipelines that transform, deploying models that predict."_
 
-⭐️ Thanks for visiting my profile! Explore my repositories to see how I'm combining **backend engineering precision** with **data analytics insight** to build systems that are both powerful and intelligent.
+⭐️ Thanks for visiting! Explore my repositories to see how I combine backend engineering, data processing, and machine learning to build intelligent, scalable solutions.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=syprian&color=blue&style=flat-square)
 
