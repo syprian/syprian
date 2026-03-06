@@ -110,6 +110,69 @@ I specialize in creating systems that don't just function—they inform, optimiz
 
 ---
 
+## 🔨 Featured Projects
+
+---
+
+### 🎮 Grandparent's Game — Arcade Platform with Score Tracking
+`Jan 2025 – May 2025` &nbsp;|&nbsp; [**View Backend on GitHub →**](https://github.com/syprian/Project_20/tree/main/Backend)
+
+A multi-game arcade platform featuring user account creation, authentication, and global leaderboard tracking. Built with a **React** frontend and **Java Spring Boot** backend, with **JavaFX** powering the in-game interfaces and **MySQL** managing all persistent data.
+
+**Tech Stack:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=java&logoColor=white)
+
+**My Contributions (Backend):**
+- Designed and implemented RESTful API endpoints using Spring Boot to handle player authentication, score submission, and leaderboard queries
+- Configured JDBC for database connectivity, architecting a relational schema linking players, games, and high scores for efficient retrieval
+- Built the full authentication flow — registration, login, and session management — securing access to game data and player profiles
+- Engineered seamless data flow between the React frontend and MySQL database, ensuring consistent state across game sessions
+
+---
+
+### 🎵 SoundScout — Location-Based Music Discovery App
+`Sep 2024 – Dec 2024` &nbsp;|&nbsp; [**View on GitHub →**](https://github.com/fati-m/SoundScout)
+
+A cross-platform mobile app that helps users break out of their music slump by discovering what people nearby are listening to in real time. Integrates **Spotify API** for live track and playlist data with **Firebase** for secure, scalable backend services.
+
+**Tech Stack:**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Spotify API](https://img.shields.io/badge/Spotify_API-1DB954?style=flat-square&logo=spotify&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**My Contributions (Backend):**
+- Integrated Firebase Authentication for secure user sign-up, login, and session management across iOS and Android
+- Designed Firestore data models to support real-time location sharing, track metadata, and user profiles with built-in privacy controls
+- Implemented Firebase Realtime Database listeners to push live "now playing" updates to nearby users with minimal latency
+- Built backend logic for Spotify API integration, managing OAuth token flows and querying currently playing tracks and playlists
+
+---
+
+### ☁️ AWS ETL Pipeline — Cloud-Native Data Engineering
+`Sep 2025 – Dec 2025` &nbsp;|&nbsp; [**View Project Presentation →**](https://drive.google.com/file/d/16a_2p-nJ6A-hcVPILJbgkOUJNbrFf3GX/view?usp=sharing)
+
+An end-to-end ETL pipeline built entirely on AWS, extracting data from multiple sources, transforming it through automated cloud workflows, and loading it into a data warehouse for analytics and AI-powered insights via Amazon SageMaker.
+
+**Tech Stack:**
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=flat-square&logo=amazon-redshift&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+**Key Highlights:**
+- Designed the full pipeline architecture: multi-source data extraction, transformation via **AWS Lambda** and **AWS Glue** for cleaning and standardization, and loading into **Amazon S3** and **Redshift**
+- Integrated **Amazon SageMaker** to generate AI-powered predictions and analytical insights from the processed dataset
+- Automated end-to-end data processing workflows to ensure scalability, fault tolerance, and reliable scheduling
+- Produced a comprehensive video presentation documenting the architecture, implementation decisions, and key findings
+
+---
+
 ## 📚 What I Bring to the Table
 
 ### Backend Software Engineering
@@ -145,6 +208,7 @@ I specialize in creating systems that don't just function—they inform, optimiz
    * MLOps Practices: Exploring model versioning, experiment tracking with MLflow, and model monitoring in production
    * Deep Learning Foundations: Building understanding of neural networks, CNNs, and RNNs using TensorFlow and PyTorch
    * Feature Stores: Learning about feature engineering best practices and feature store implementations
+
 * **⚙️ Backend System Optimization:**
    * Microservices Patterns: Studying service decomposition, API gateways, and inter-service communication strategies
    * Database Performance: Advanced query optimization, indexing strategies, and database scaling techniques
@@ -199,6 +263,5 @@ I'm always interested in connecting with fellow engineers, data professionals, a
 ### 💭 _"Building systems that scale, engineering pipelines that transform, deploying models that predict."_
 
 ⭐️ Thanks for visiting! Explore my repositories to see how I combine backend engineering, data processing, and machine learning to build intelligent, scalable solutions.
-
 
 </div>
