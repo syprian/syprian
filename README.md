@@ -1,13 +1,7 @@
 # 👋 Hi, I'm Syprian Oduor
 
 <div align="center">
-  
 ### Backend Software Engineer | Data Engineer | AI/ML Enthusiast
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/syprian-o)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:soduor@wisc.edu)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/syprian)
-
 </div>
 
 ---
@@ -263,5 +257,12 @@ I'm always interested in connecting with fellow engineers, data professionals, a
 ### 💭 _"Building systems that scale, engineering pipelines that transform, deploying models that predict."_
 
 ⭐️ Thanks for visiting! Explore my repositories to see how I combine backend engineering, data processing, and machine learning to build intelligent, scalable solutions.
+
+  
+### Backend Software Engineer | Data Engineer | AI/ML Enthusiast
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/syprian-o)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:soduor@wisc.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/syprian)
 
 </div>
