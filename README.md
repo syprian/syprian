@@ -1,6 +1,6 @@
 # Hello, I'm Syprian Oduor
 
-**Software Engineer** | Business Analytics @ UW-Madison
+**Software Engineer** | **Data Engineer** | MS Business Analytics @ UW-Madison
 
 I'm a Backend Software Engineer and Business Analytics graduate student at UW-Madison, passionate about building scalable backend systems, designing data pipelines, and integrating machine learning into production applications. With a strong foundation in Computer Science and ongoing studies in Business Analytics, I bring a unique blend of software engineering rigor and data-driven insight to every project.
 
@@ -8,7 +8,7 @@ I'm a Backend Software Engineer and Business Analytics graduate student at UW-Ma
 
 ---
 
-### 🎮 Grandparent's Game — Arcade Platform with Score Tracking
+### 🎮 Grandparent's Game : Arcade Platform with Score Tracking
 `Jan 2025 – May 2025` &nbsp;|&nbsp; [**View Backend on GitHub →**](https://github.com/syprian/Project_20/tree/main/Backend)
 
 A multi-game arcade platform featuring user account creation, authentication, and global leaderboard tracking. Built with a **React** frontend and **Java Spring Boot** backend, with **JavaFX** powering the in-game interfaces and **MySQL** managing all persistent data.
@@ -27,7 +27,7 @@ A multi-game arcade platform featuring user account creation, authentication, an
 
 ---
 
-### 🎵 SoundScout — Location-Based Music Discovery App
+### 🎵 SoundScout : Location-Based Music Discovery App
 `Sep 2024 – Dec 2024` &nbsp;|&nbsp; [**View on GitHub →**](https://github.com/fati-m/SoundScout)
 
 A cross-platform mobile app that helps users break out of their music slump by discovering what people nearby are listening to in real time. Integrates **Spotify API** for live track and playlist data with **Firebase** for secure, scalable backend services.
@@ -45,7 +45,7 @@ A cross-platform mobile app that helps users break out of their music slump by d
 
 ---
 
-### ☁️ AWS ETL Pipeline — Cloud-Native Data Engineering
+### ☁️ AWS ETL Pipeline : Cloud-Native Data Engineering
 `Sep 2025 – Dec 2025` &nbsp;|&nbsp; [**View Project Presentation →**](https://drive.google.com/file/d/16a_2p-nJ6A-hcVPILJbgkOUJNbrFf3GX/view?usp=sharing)
 
 An end-to-end ETL pipeline built entirely on AWS, extracting data from multiple sources, transforming it through automated cloud workflows, and loading it into a data warehouse for analytics and AI-powered insights via Amazon SageMaker.
@@ -114,7 +114,7 @@ An end-to-end ETL pipeline built entirely on AWS, extracting data from multiple 
 
 ## 🎯 Currently Seeking
 
-Roles in **Backend Engineering**, **Data Engineering**, or **AI/ML Engineering** — especially where software fundamentals meet data-driven systems.
+I'm actively looking to join a team where strong engineering and data-driven thinking go hand in hand. Whether it's designing APIs, building ETL pipelines, or deploying ML models. I'm most energized when the work spans all three. Open to Backend, Data, Engineering roles.
 
 📧 soduor@wisc.edu · 📍 Madison, WI · Open to remote/relocation
 
