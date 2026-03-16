@@ -1,6 +1,6 @@
 # Hello, I'm Syprian Oduor
 
-**Software Engineer** | **Data Engineer** | MS Business Analytics @ UW-Madison
+**Software Engineer** | **Data Engineer** | CS @UW Madison | MS Business Analytics @ UW-Madison
 
 I'm a Backend Software Engineer and Business Analytics graduate student at UW-Madison, passionate about building scalable backend systems, designing data pipelines, and integrating machine learning into production applications. With a strong foundation in Computer Science and ongoing studies in Business Analytics, I bring a unique blend of software engineering rigor and data-driven insight to every project.
 
