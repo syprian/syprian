@@ -6,8 +6,6 @@ I'm a Backend Software Engineer and Business Analytics graduate student at UW-Ma
 
 ## 🔨 Projects
 
----
-
 ### 🐜 Reddit Forager : Comment Scraper & Thread Analysis Tool  
 `Jan 2026 – Mar 2026` &nbsp;|&nbsp; **Personal Project** &nbsp;|&nbsp; [**View on GitHub →**](https://github.com/yourusername/reddit-forager)
 
