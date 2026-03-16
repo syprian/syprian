@@ -8,22 +8,40 @@ I'm a Backend Software Engineer and Business Analytics graduate student at UW-Ma
 
 ---
 
-### 🎮 Grandparent's Game : Arcade Platform with Score Tracking
-`Jan 2025 – May 2025` &nbsp;|&nbsp; [**View Backend on GitHub →**](https://github.com/syprian/Project_20/tree/main/Backend)
+### 🐜 Reddit Forager : Comment Scraper & Thread Analysis Tool  
+`Jan 2026 – Mar 2026` &nbsp;|&nbsp; **Personal Project** &nbsp;|&nbsp; [**View on GitHub →**](https://github.com/yourusername/reddit-forager)
 
-A multi-game arcade platform featuring user account creation, authentication, and global leaderboard tracking. Built with a **React** frontend and **Java Spring Boot** backend, with **JavaFX** powering the in-game interfaces and **MySQL** managing all persistent data.
+A browser-based tool for extracting and analyzing Reddit comment threads. Users can input a Reddit post URL or ID to fetch comments directly from Reddit’s public API, then filter, search, and export the dataset for exploration or further analysis. Built as a **fully client-side application** with dynamic rendering, comment tree parsing, and interactive filtering capabilities.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Reddit API](https://img.shields.io/badge/Reddit_API-FF4500?style=flat-square&logo=reddit&logoColor=white)
 
-**My Contributions (Backend):**
-- Designed and implemented RESTful API endpoints using Spring Boot to handle player authentication, score submission, and leaderboard queries
-- Configured JDBC for database connectivity, architecting a relational schema linking players, games, and high scores for efficient retrieval
-- Built the full authentication flow — registration, login, and session management — securing access to game data and player profiles
-- Engineered seamless data flow between the React frontend and MySQL database, ensuring consistent state across game sessions
+**My Contributions:**
+- Designed and implemented the full front-end application, including UI layout, styling system, and interactive comment display components
+- Built a recursive parser to traverse Reddit’s nested comment tree and flatten thread structures while preserving metadata such as author, score, and depth
+- Implemented dynamic filtering, keyword search, pagination, and real-time comment rendering to efficiently explore large discussion threads
+- Developed data export functionality allowing scraped comment datasets to be downloaded as **JSON or CSV** for external analysis or research
+
+---
+
+### ☁️ AWS ETL Pipeline : Cloud-Native Data Engineering
+`Sep 2025 – Dec 2025` &nbsp;|&nbsp; [**View Project Presentation →**](https://drive.google.com/file/d/16a_2p-nJ6A-hcVPILJbgkOUJNbrFf3GX/view?usp=sharing)
+
+An end-to-end ETL pipeline built entirely on AWS, extracting data from multiple sources, transforming it through automated cloud workflows, and loading it into a data warehouse for analytics and AI-powered insights via Amazon SageMaker.
+
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=flat-square&logo=amazon-redshift&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+**Key Highlights:**
+- Designed the full pipeline architecture: multi-source data extraction, transformation via **AWS Lambda** and **AWS Glue** for cleaning and standardization, and loading into **Amazon S3** and **Redshift**
+- Integrated **Amazon SageMaker** to generate AI-powered predictions and analytical insights from the processed dataset
+- Automated end-to-end data processing workflows to ensure scalability, fault tolerance, and reliable scheduling
+- Produced a comprehensive video presentation documenting the architecture, implementation decisions, and key findings
 
 ---
 
@@ -45,22 +63,22 @@ A cross-platform mobile app that helps users break out of their music slump by d
 
 ---
 
-### ☁️ AWS ETL Pipeline : Cloud-Native Data Engineering
-`Sep 2025 – Dec 2025` &nbsp;|&nbsp; [**View Project Presentation →**](https://drive.google.com/file/d/16a_2p-nJ6A-hcVPILJbgkOUJNbrFf3GX/view?usp=sharing)
+### 🎮 Grandparent's Game : Arcade Platform with Score Tracking
+`Jan 2025 – May 2025` &nbsp;|&nbsp; [**View on GitHub →**](https://github.com/syprian/Project_20/tree/main/Backend)
 
-An end-to-end ETL pipeline built entirely on AWS, extracting data from multiple sources, transforming it through automated cloud workflows, and loading it into a data warehouse for analytics and AI-powered insights via Amazon SageMaker.
+A multi-game arcade platform featuring user account creation, authentication, and global leaderboard tracking. Built with a **React** frontend and **Java Spring Boot** backend, with **JavaFX** powering the in-game interfaces and **MySQL** managing all persistent data.
 
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
-![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=flat-square&logo=amazon-redshift&logoColor=white)
-![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=java&logoColor=white)
 
-**Key Highlights:**
-- Designed the full pipeline architecture: multi-source data extraction, transformation via **AWS Lambda** and **AWS Glue** for cleaning and standardization, and loading into **Amazon S3** and **Redshift**
-- Integrated **Amazon SageMaker** to generate AI-powered predictions and analytical insights from the processed dataset
-- Automated end-to-end data processing workflows to ensure scalability, fault tolerance, and reliable scheduling
-- Produced a comprehensive video presentation documenting the architecture, implementation decisions, and key findings
+**My Contributions (Backend):**
+- Designed and implemented RESTful API endpoints using Spring Boot to handle player authentication, score submission, and leaderboard queries
+- Configured JDBC for database connectivity, architecting a relational schema linking players, games, and high scores for efficient retrieval
+- Built the full authentication flow, registration, login, and session management, securing access to game data and player profiles
+- Engineered seamless data flow between the React frontend and MySQL database, ensuring consistent state across game sessions
 
 ---
 
