@@ -4,7 +4,7 @@
 
 I'm a Backend Software Engineer and Business Analytics graduate student at UW-Madison, passionate about building scalable backend systems, designing data pipelines, and integrating machine learning into production applications. With a strong foundation in Computer Science and ongoing studies in Business Analytics, I bring a unique blend of software engineering rigor and data-driven insight to every project.
 
-## 🔨 Projects
+## ⚙️ Projects
 
 ### 🐜 Reddit Forager : Comment Scraper & Thread Analysis Tool  
 `Jan 2026 – Mar 2026` &nbsp;|&nbsp; **Personal Project** &nbsp;|&nbsp; [**View on GitHub →**](https://github.com/yourusername/reddit-forager)
@@ -43,24 +43,6 @@ An end-to-end ETL pipeline built entirely on AWS, extracting data from multiple 
 
 ---
 
-### 🎵 SoundScout : Location-Based Music Discovery App
-`Sep 2024 – Dec 2024` &nbsp;|&nbsp; [**View on GitHub →**](https://github.com/fati-m/SoundScout)
-
-A cross-platform mobile app that helps users break out of their music slump by discovering what people nearby are listening to in real time. Integrates **Spotify API** for live track and playlist data with **Firebase** for secure, scalable backend services.
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Spotify API](https://img.shields.io/badge/Spotify_API-1DB954?style=flat-square&logo=spotify&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-**My Contributions (Backend):**
-- Integrated Firebase Authentication for secure user sign-up, login, and session management across iOS and Android
-- Designed Firestore data models to support real-time location sharing, track metadata, and user profiles with built-in privacy controls
-- Implemented Firebase Realtime Database listeners to push live "now playing" updates to nearby users with minimal latency
-- Built backend logic for Spotify API integration, managing OAuth token flows and querying currently playing tracks and playlists
-
----
-
 ### 🎮 Grandparent's Game : Arcade Platform with Score Tracking
 `Jan 2025 – May 2025` &nbsp;|&nbsp; [**View on GitHub →**](https://github.com/syprian/Project_20/tree/main/Backend)
 
@@ -77,6 +59,23 @@ A multi-game arcade platform featuring user account creation, authentication, an
 - Configured JDBC for database connectivity, architecting a relational schema linking players, games, and high scores for efficient retrieval
 - Built the full authentication flow, registration, login, and session management, securing access to game data and player profiles
 - Engineered seamless data flow between the React frontend and MySQL database, ensuring consistent state across game sessions
+
+---
+### 🎵 SoundScout : Location-Based Music Discovery App
+`Sep 2024 – Dec 2024` &nbsp;|&nbsp; [**View on GitHub →**](https://github.com/fati-m/SoundScout)
+
+A cross-platform mobile app that helps users break out of their music slump by discovering what people nearby are listening to in real time. Integrates **Spotify API** for live track and playlist data with **Firebase** for secure, scalable backend services.
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Spotify API](https://img.shields.io/badge/Spotify_API-1DB954?style=flat-square&logo=spotify&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**My Contributions (Backend):**
+- Integrated Firebase Authentication for secure user sign-up, login, and session management across iOS and Android
+- Designed Firestore data models to support real-time location sharing, track metadata, and user profiles with built-in privacy controls
+- Implemented Firebase Realtime Database listeners to push live "now playing" updates to nearby users with minimal latency
+- Built backend logic for Spotify API integration, managing OAuth token flows and querying currently playing tracks and playlists
 
 ---
 
