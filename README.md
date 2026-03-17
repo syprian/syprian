@@ -80,9 +80,8 @@ A cross-platform mobile app that helps users break out of their music slump by d
 ---
 
 
-<div class ="container" align = "center" justify-content = "space-between">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syprian&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" style="float:left;">
-  <img src="https://raw.githubusercontent.com/syprian/syprian/main/laptop.gif" height="170" style="float:right;">
+<div align = "center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syprian&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170">
 </div>
 
 ---
