@@ -38,7 +38,6 @@ An end-to-end ETL pipeline built entirely on AWS, extracting data from multiple 
 **Key Highlights:**
 - Designed the full pipeline architecture: multi-source data extraction, transformation via **AWS Lambda** and **AWS Glue** for cleaning and standardization, and loading into **Amazon S3** and **Redshift**
 - Integrated **Amazon SageMaker** to generate AI-powered predictions and analytical insights from the processed dataset
-- Automated end-to-end data processing workflows to ensure scalability, fault tolerance, and reliable scheduling
 - Produced a comprehensive video presentation documenting the architecture, implementation decisions, and key findings
 
 ---
