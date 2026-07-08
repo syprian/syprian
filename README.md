@@ -9,6 +9,8 @@ I'm a Backend Software Engineer and a Master of Science in Business Analytics gr
 ### 🐜 Reddit Forager : Comment Scraper & Thread Analysis Tool  
 `Jan 2026 – Mar 2026` &nbsp;|&nbsp; **Personal Project** &nbsp;|&nbsp; [**View on GitHub →**](https://github.com/syprian/redditforager)
 
+&nbsp;|&nbsp; [**View Project Presentation →**](https://drive.google.com/file/d/124KhTFGYcr2RaORoS32zaeUFfxshcHiv/view?usp=sharing)
+
 A browser-based tool for extracting and analyzing Reddit comment threads. Users can input a Reddit post URL or ID to fetch comments directly from Reddit’s public API, then filter, search, and export the dataset for exploration or further analysis. Built as a **fully client-side application** with dynamic rendering, comment tree parsing, and interactive filtering capabilities.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
