@@ -2,7 +2,7 @@
 
 **Software Engineer** | **Data Engineer** | CS @UW Madison | MS Business Analytics @ UW-Madison
 
-I'm a Backend Software Engineer and a Master of Science in Business Analytics graduate from UW-Madison, passionate about building scalable backend systems, designing data pipelines, and integrating machine learning into production applications. With a strong foundation in Computer Science and recently completed MS degree in Business Analytics, I bring a unique blend of software engineering rigor and data-driven insight to every project.
+I'm a Software Engineer and a Master of Science in Business Analytics graduate from UW-Madison, passionate about building scalable backend systems, designing data pipelines, and integrating machine learning into production applications. With a strong foundation in Computer Science and recently completed MS degree in Business Analytics, I bring a unique blend of software engineering rigor and data-driven insight to every project.
 
 ## ⚙️ Projects
 
